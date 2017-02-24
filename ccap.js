@@ -1,4 +1,3 @@
-alert('Hello!');
 var aupairs = document.getElementsByClassName("arrival");
 
 for (var i=0; i < aupairs.length; i++)
@@ -8,7 +7,6 @@ for (var i=0; i < aupairs.length; i++)
 	newdiv.appendChild(newtext);
 	aupairs[i].appendChild(newdiv);
 }
-alert('Done!');
 
     function initBookmarklet() {
         showHeatmap()
