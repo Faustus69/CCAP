@@ -1,30 +1,12 @@
-    var jqv = "1.3.2";
-    var showClickCount = true;
-    var showID = true;
-    var data = null;
-    var eventRange = "alleventscount";
-/*
-    POSIBLE evenRanges:
-        lastdayeventcount
-        lastweekcount
-        lastmonthcount
-        alleventscount
-*/
-    if (window.jQuery === undefined || window.jQuery.fn.jquery < jqv) {
-        var z = false;
-        var A = document.createElement("script");
-        A.src = "https://ajax.googleapis.com/ajax/libs/jquery/" + jqv + "/jquery.min.js";
-        A.onload = A.onreadystatechange = function() {
-            if (!z && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {
-                z = true;
-                initBookmarklet()
-            }
-        };
-        document.getElementsByTagName("head")[0].appendChild(A)
-    } else {
-        initBookmarklet()
-    }
+var aupairs = document.getElementsByClassName("arrival");
 
+for (var i=0; i < aupairs.length; i++)
+{
+	var newdiv = document.createElement("div");
+	var newtext = document.createTextNode("Hello World");
+	newdiv.appendChild(newtext);
+	aupairs[i].appendChild(newdiv);
+}
     function initBookmarklet() {
         showHeatmap()
     }
