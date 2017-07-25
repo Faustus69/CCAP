@@ -1,0 +1,857 @@
+{
+    "catalogName": "MicrosoftReadinga3f7450f-",
+    "brands": [
+        {
+            "brandKey": "B644898",
+            "brandName": "Amazon.co.uk",
+            "disclaimer": "<p>Amazon.co.uk is not a sponsor of this promotion. Amazon.co.uk Gift Cards (&quot;GCs&quot;) may be redeemed on the Amazon.co.uk website towards the purchase of eligible products listed in our online catalogue and sold by Amazon.co.uk or any other seller selling through Amazon.co.uk. Purchases are deducted from the GC balance. To redeem or view a GC balance, visit &quot;Your Account&quot; on Amazon.co.uk. GC&#39;s cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.co.uk is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.co.uk/gc-legal\">www.amazon.co.uk/gc-legal</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n",
+            "description": "<p>Amazon.co.uk Gift Cards* can be redeemed towards millions of items at www.amazon.co.uk. Amazon.co.uk&#39;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, Film &amp; TV, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewellery, Beauty, DIY &amp; Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.co.uk is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>Amazon.co.uk Gift Cards* can be redeemed towards millions of items at <a href=\"http://www.amazon.co.uk\">www.amazon.co.uk</a>.</p>\r\n",
+            "terms": "<p>*Amazon.co.uk is not a sponsor of this promotion. Amazon.co.uk Gift Cards (&quot;GCs&quot;) may be redeemed on the Amazon.co.uk website towards the purchase of eligible products listed in our online catalogue and sold by Amazon.co.uk or any other seller selling through Amazon.co.uk. Purchases are deducted from the GC balance. To redeem or view a GC balance, visit &quot;Your Account&quot; on Amazon.co.uk. GC&#39;s cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.co.uk is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.co.uk/gc-legal\">www.amazon.co.uk/gc-legal</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n\r\n<p>Please note that this reward expires 10 years from issuance.</p>\r\n",
+            "createdDate": "2016-07-12T23:53:33Z",
+            "lastUpdateDate": "2017-06-14T03:32:24Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b314742-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U139281",
+                    "rewardName": "Amazon.co.uk Gift Card",
+                    "currencyCode": "GBP",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 1000,
+                    "createdDate": "2016-08-26T00:38:00.445Z",
+                    "lastUpdateDate": "2017-06-14T04:13:57.469Z",
+                    "countries": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B916708",
+            "brandName": "Amazon.com",
+            "disclaimer": "<p>*Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards (&quot;GCs&quot;) cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. GCs cannot be redeemed for purchases of gift cards. Purchases are deducted from the GC balance. To redeem or view a GC balance, visit &quot;Your Account&quot; on Amazon.com. Amazon is not responsible if a GC is lost, stolen, destroyed or used without permission. For complete terms and conditions, see <a href=\"http://www.amazon.com/gc-legal\" target=\"_blank\">www.amazon.com/gc-legal.</a> GCs are issued by ACI Gift Cards, Inc., a Washington corporation. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates. No expiration date or service fees.&nbsp;</p>\r\n",
+            "description": "<p>Amazon.com Gift Cards* never expire and can be redeemed towards millions of items at <a href=\"http://www.amazon.com\">www.amazon.com</a>, <a href=\"http://www.myhabit.com\">www.myhabit.com</a>, and certain of its affiliated websites. Amazon.com&rsquo;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, DVD, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewelry, Beauty, Cell Phones &amp; Accessories, Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.com is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>Amazon.com Gift Cards* never expire and can be redeemed towards millions of items at <a href=\"http://www.amazon.com\">www.amazon.com</a>.</p>\r\n",
+            "terms": "<p>*Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards (&quot;GCs&quot;) cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. GCs cannot be redeemed for purchases of gift cards. Purchases are deducted from the GC balance. To redeem or view a GC balance, visit &quot;Your Account&quot; on Amazon.com. Amazon is not responsible if a GC is lost, stolen, destroyed or used without permission. For complete terms and conditions, see <a href=\"http://www.amazon.com/gc-legal\" target=\"_blank\">www.amazon.com/gc-legal.</a> GCs are issued by ACI Gift Cards, Inc., a Washington corporation. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates. No expiration date or service fees.</p>\r\n",
+            "createdDate": "2016-04-18T16:11:30Z",
+            "lastUpdateDate": "2017-06-14T03:32:29Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b418491-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U666425",
+                    "rewardName": "Amazon.com Gift Card",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 1000,
+                    "createdDate": "2016-04-18T20:59:37.01Z",
+                    "lastUpdateDate": "2017-06-14T04:14:13.017Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B541227",
+            "brandName": "Amazon.de",
+            "disclaimer": "<p>*Amazon.de ist kein Sponsor dieser Werbeaktion. Amazon, Amazon.de, das Amazon.de-Logo und das Smile-Logo sind Marken oder eingetragene Marken von Amazon EU SARL oder ihren verbundenen Unternehmen. GS k&ouml;nnen auf der Website von Amazon.de oder auf der verbundenen Website Javari.de gegen den Kauf von teilnahmeberechtigten Produkten eingel&ouml;st werden, die in unserem Online-Katalog aufgef&uuml;hrt sind und von Amazon.de oder einem anderen Verk&auml;ufer &uuml;ber Amazon.de verkauft werden. Die K&auml;ufe werden vom Gutscheinbetrag abgezogen. Zur Einl&ouml;sung oder Ansicht des Gutscheinbetrages gehen Sie bei Amazon.de auf &bdquo;Mein Konto&ldquo;. Gutscheine k&ouml;nnen nicht wieder aufgeladen, weiterverkauft, gegen Wert &uuml;bertragen, in Bargeld abgel&ouml;st oder auf ein anderes Konto &uuml;bertragen werden. Amazon.de tr&auml;gt keinerlei Verantwortung f&uuml;r verloren gegangene, gestohlene, vernichtete oder unerlaubt eingesetzte Gutscheine. Die vollst&auml;ndigen Gesch&auml;ftsbedingungen finden Sie unter <a href=\"http://www.amazon.de/einloesen\">www.amazon.de/einloesen</a>. Die Gutscheine sind von Amazon EU Sarl ausgestellt und &copy;2016.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.de is not a sponsor of this promotion. Amazon.de Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.de website or affiliated website Javari.de towards the purchase of eligible products listed in our online catalogue and sold by Amazon.de or any other seller selling through Amazon.de. GCs cannot bereloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.de is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.de/einloesen\">www.amazon.de/einloesen</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n",
+            "description": "<p>Amazon.de-Gutscheine* k&ouml;nnen bei <a href=\"http://www.amazon.de\">www.amazon.de</a> und <a href=\"http://www.javari.de\">www.javari.de</a> auf Millionen von Artikeln angerechnet werden. Die riesige Auswahl von Amazon.de umfasst Produkte in den Sparten B&uuml;cher, Elektronik, Musik, MP3-Downloads, Film und Fernsehen, Kleidung, Video-Games, Software, Sport &amp; Outdoors, Spielzeug, Baby, Computer und B&uuml;ro, Haus und Garten, Schmuck, Sch&ouml;nheitspflege, Baumarkt, B&uuml;robedarf, Kamera und Foto, Tierbedarf und mehr. Amazon.de ist der Ort, wo Sie fast alles, was Sie kaufen wollen, preisg&uuml;nstig online finden und entdecken.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.de Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.de\">www.amazon.de</a> and <a href=\"http://www.javari.de\">www.javari.de</a>. Amazon.de&#39;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, Film &amp; TV, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewellery, Beauty, DIY &amp; Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.de is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>Amazon.de-Gutscheine* k&ouml;nnen bei <a href=\"http://www.amazon.de\">www.amazon.de</a> auf Millionen von Artikeln angerechnet werden.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.de Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.de\">www.amazon.de</a>.</p>\r\n",
+            "terms": "<p>*Amazon.de ist kein Sponsor dieser Werbeaktion. Amazon, Amazon.de, das Amazon.de-Logo und das Smile-Logo sind Marken oder eingetragene Marken von Amazon EU SARL oder ihren verbundenen Unternehmen. GS k&ouml;nnen auf der Website von Amazon.de oder auf der verbundenen Website Javari.de gegen den Kauf von teilnahmeberechtigten Produkten eingel&ouml;st werden, die in unserem Online-Katalog aufgef&uuml;hrt sind und von Amazon.de oder einem anderen Verk&auml;ufer &uuml;ber Amazon.de verkauft werden. Die K&auml;ufe werden vom Gutscheinbetrag abgezogen. Zur Einl&ouml;sung oder Ansicht des Gutscheinbetrages gehen Sie bei Amazon.de auf &bdquo;Mein Konto&ldquo;. Gutscheine k&ouml;nnen nicht wieder aufgeladen, weiterverkauft, gegen Wert &uuml;bertragen, in Bargeld abgel&ouml;st oder auf ein anderes Konto &uuml;bertragen werden. Amazon.de tr&auml;gt keinerlei Verantwortung f&uuml;r verloren gegangene, gestohlene, vernichtete oder unerlaubt eingesetzte Gutscheine. Die vollst&auml;ndigen Gesch&auml;ftsbedingungen finden Sie unter <a href=\"http://www.amazon.de/einloesen\">www.amazon.de/einloesen</a>. Die Gutscheine sind von Amazon EU Sarl ausgestellt und &copy;2016.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.de is not a sponsor of this promotion. Amazon.de Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.de website or affiliated website Javari.de towards the purchase of eligible products listed in our online catalogue and sold by Amazon.de or any other seller selling through Amazon.de. GCs cannot bereloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.de is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.de/einloesen\">www.amazon.de/einloesen</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n\r\n<p>Please note that this reward expires 10 years from issuance.</p>\r\n",
+            "createdDate": "2016-07-12T23:55:07Z",
+            "lastUpdateDate": "2017-06-14T03:32:22Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b568470-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U752627",
+                    "rewardName": "Amazon.de Gift Certificate",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 5000,
+                    "createdDate": "2016-08-26T00:15:09.797Z",
+                    "lastUpdateDate": "2017-06-14T04:14:16.382Z",
+                    "countries": [
+                        "DE"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B236401",
+            "brandName": "Amazon.es",
+            "disclaimer": "<p>*Amazon.es no patrocina esta promoci&oacute;n. Los Cheques regalo de Amazon.es deben canjearse en la p&aacute;gina de Amazon.es, por los productos incluidos en nuestro cat&aacute;logo online y vendidos por Amazon.es o cualquier otro vendedor que venda a trav&eacute;s la plataforma de Amazon.es. Los cheques regalo no se pueden recargar, revender, transferir por un valor, canjear por dinero en efectivo o usar con otra cuenta. Amazon.es no se hace responsable de la p&eacute;rdida, robo, destrucci&oacute;n o uso no consentido de los cheques regalo. Consulte los t&eacute;rminos y condiciones completos en <a href=\"http://www.amazon.es/cheques-regalo-condiciones\">www.amazon.es/cheques-regalo-condiciones</a>. Amazon EU SARL emite los Cheques regalo. Todos los &reg;, TM et &copy; Amazon son la propiedad intelectual de Amazon.com o de sus filiales.</p>\r\n\r\n<p><br />\r\n*Amazon.es is not a sponsor of this promotion. Amazon.es Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.es website&nbsp; towards the purchase of eligible products listed in our online catalogue and sold by Amazon.es or any other seller selling through Amazon.es. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.es is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.es/cheques-regalo-condiciones\">www.amazon.es/cheques-regalo-condiciones</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n",
+            "description": "<p>Los Cheques regalo de Amazon.es* pueden canjearse por millones de productos en <a href=\"http://www.amazon.es\">www.amazon.es</a>. La gran selecci&oacute;n de productos de Amazon.es incluye libros, electr&oacute;nica, m&uacute;sica, cine y televisi&oacute;n, v&iacute;deo juegos, software, juguetes, productos inform&aacute;ticos y de oficina, joyas, c&aacute;maras y productos de fotograf&iacute;a y muchos m&aacute;s. Amazon.es es el mejor lugar para encontrar y descubrir casi todo lo que quieras comprar online a unos precios excelentes.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.es Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.es\">www.amazon.es</a>. Amazon.es&#39;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, Film &amp; TV, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewelry, Beauty, DIY &amp; Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.es is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>Los Cheques regalo de Amazon.es* pueden canjearse por millones de productos en <a href=\"http://www.amazon.es\">www.amazon.es</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.es Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.es\">www.amazon.es</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+            "terms": "<p>*Amazon.es no patrocina esta promoci&oacute;n. Los Cheques regalo de Amazon.es deben canjearse en la p&aacute;gina de Amazon.es, por los productos incluidos en nuestro cat&aacute;logo online y vendidos por Amazon.es o cualquier otro vendedor que venda a trav&eacute;s la plataforma de Amazon.es. Los cheques regalo no se pueden recargar, revender, transferir por un valor, canjear por dinero en efectivo o usar con otra cuenta. Amazon.es no se hace responsable de la p&eacute;rdida, robo, destrucci&oacute;n o uso no consentido de los cheques regalo. Consulte los t&eacute;rminos y condiciones completos en <a href=\"http://www.amazon.es/cheques-regalo-condiciones\">www.amazon.es/cheques-regalo-condiciones</a>. Amazon EU SARL emite los Cheques regalo. Todos los &reg;, TM et &copy; Amazon son la propiedad intelectual de Amazon.com o de sus filiales.</p>\r\n\r\n<p><br />\r\n*Amazon.es is not a sponsor of this promotion. Amazon.es Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.es website&nbsp; towards the purchase of eligible products listed in our online catalogue and sold by Amazon.es or any other seller selling through Amazon.es. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.es is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.es/cheques-regalo-condiciones\">www.amazon.es/cheques-regalo-condiciones</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n\r\n<p>Please note that this reward expires 10 years from issuance.</p>\r\n",
+            "createdDate": "2016-07-12T23:56:41Z",
+            "lastUpdateDate": "2017-06-14T03:26:31Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b566277-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U156320",
+                    "rewardName": "Amazon.es Gift Certificate",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 5000,
+                    "createdDate": "2016-09-01T22:48:37.145Z",
+                    "lastUpdateDate": "2017-06-14T04:13:58.15Z",
+                    "countries": [
+                        "ES"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B588436",
+            "brandName": "Amazon.fr",
+            "disclaimer": "<p>*Amazon.fr ne parraine pas le pr&eacute;sent Programme. Les ch&egrave;ques-cadeaux Amazon.fr pourront &ecirc;tre utilis&eacute;s sur le site Web Amazon.fr pour l&#39;achat de produits &eacute;ligibles r&eacute;pertori&eacute;s dans notre catalogue en ligne et vendus par Amazon.fr ou d&#39;autres vendeurs vendant leurs produits sur le site Amazon.fr. Les ch&egrave;ques-cadeaux ne peuvent &ecirc;tre enregistr&eacute;s plusieurs fois, revendus, c&eacute;d&eacute;s pour contrepartie on&eacute;reuse, &eacute;chang&eacute;s contre des esp&egrave;ces ou appliqu&eacute;s &agrave; un autre compte. Amazon.fr n&rsquo;est pas responsable des vols, pertes, destructions ou utilisations sans autorisation des ch&egrave;ques-cadeaux. Voir conditions compl&egrave;tes sur <a href=\"http://www.amazon.fr/utiliser-un-cheque-cadeau\">www.amazon.fr/utiliser-un-cheque-cadeau</a>. Emission des ch&egrave;ques-cadeaux par Amazon EU S&agrave;rl. Tous les &reg;, TM et &copy; Amazon sont la propri&eacute;t&eacute; intellectuelle d&rsquo;Amazon.com ou ses filiales.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.fr is not a sponsor of this promotion. Amazon.fr Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.fr website towards the purchase of eligible products listed in our online catalogue and sold by Amazon.fr or any other seller selling through Amazon.fr. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.fr is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.fr/utiliser-un-cheque-cadeau\">www.amazon.fr/utiliser-un-cheque-cadeau</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n",
+            "description": "<p>Les Ch&egrave;ques-Cadeaux Amazon.fr* peuvent &ecirc;tre utilis&eacute;s pour des millions d&rsquo;articles sur <a href=\"http://www.amazon.fr\">www.amazon.fr</a>. Amazon.fr propose une immense s&eacute;lection de livres, produits &eacute;lectroniques, musique, t&eacute;l&eacute;chargements MP3, films et TV, v&ecirc;tements, jeux vid&eacute;o, logiciels, sports &amp; activit&eacute;s de plein air, jouets, articles de pu&eacute;riculture, ordinateurs &amp; bureautique, maison &amp; jardin, bijoux, beaut&eacute;, bricolage et d&eacute;coration d&rsquo;int&eacute;rieur, produits de bureau, vid&eacute;o &amp; photo, accessoires pour animaux et bien d&rsquo;autres choses encore. Amazon.fr est le site o&ugrave; trouver et acheter en ligne &agrave; un excellent prix quasiment tout ce que vous voulez.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.fr Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.fr\">www.amazon.fr</a>.&nbsp; Amazon.fr&#39;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, Film &amp; TV, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewelry, Beauty, DIY &amp; Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.fr is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>Les Ch&egrave;ques-Cadeaux Amazon.fr* peuvent &ecirc;tre utilis&eacute;s pour des millions d&rsquo;articles sur <a href=\"http://www.amazon.fr\">www.amazon.fr</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.fr Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.fr\">www.amazon.fr</a>.</p>\r\n",
+            "terms": "<p>*Amazon.fr ne parraine pas le pr&eacute;sent Programme. Les ch&egrave;ques-cadeaux Amazon.fr pourront &ecirc;tre utilis&eacute;s sur le site Web Amazon.fr pour l&#39;achat de produits &eacute;ligibles r&eacute;pertori&eacute;s dans notre catalogue en ligne et vendus par Amazon.fr ou d&#39;autres vendeurs vendant leurs produits sur le site Amazon.fr. Les ch&egrave;ques-cadeaux ne peuvent &ecirc;tre enregistr&eacute;s plusieurs fois, revendus, c&eacute;d&eacute;s pour contrepartie on&eacute;reuse, &eacute;chang&eacute;s contre des esp&egrave;ces ou appliqu&eacute;s &agrave; un autre compte. Amazon.fr n&rsquo;est pas responsable des vols, pertes, destructions ou utilisations sans autorisation des ch&egrave;ques-cadeaux. Voir conditions compl&egrave;tes sur <a href=\"http://www.amazon.fr/utiliser-un-cheque-cadeau\">www.amazon.fr/utiliser-un-cheque-cadeau</a>. Emission des ch&egrave;ques-cadeaux par Amazon EU S&agrave;rl. Tous les &reg;, TM et &copy; Amazon sont la propri&eacute;t&eacute; intellectuelle d&rsquo;Amazon.com ou ses filiales.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.fr is not a sponsor of this promotion. Amazon.fr Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.fr website towards the purchase of eligible products listed in our online catalogue and sold by Amazon.fr or any other seller selling through Amazon.fr. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.fr is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.fr/utiliser-un-cheque-cadeau\">www.amazon.fr/utiliser-un-cheque-cadeau</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n\r\n<p>Please note that this reward expires 10 years from issuance.</p>\r\n",
+            "createdDate": "2016-07-12T23:58:09Z",
+            "lastUpdateDate": "2017-06-14T03:32:23Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b001454-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U079023",
+                    "rewardName": "Amazon.fr Gift Certificate",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 5000,
+                    "createdDate": "2016-09-01T22:38:09.49Z",
+                    "lastUpdateDate": "2017-06-14T03:48:11.488Z",
+                    "countries": [
+                        "FR"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B405753",
+            "brandName": "Amazon.it",
+            "disclaimer": "<p>* Amazon.it non &egrave; uno sponsor della presente promozione. I Buoni Regalo Amazon.it possono essere utilizzati sul sito Amazon.it per l&#39;acquisto di prodotti elencati nel nostro catalogo on-line e venduti da Amazon.it o da qualsiasi altro venditore attraverso Amazon.it I Buoni Regalo Amazon non possono essere ricaricati, rivenduti, convertiti in contanti, trasferiti o utilizzati in un altro account. Amazon.it non &egrave; responsabile per lo smarrimento, il furto, la distruzione o l&rsquo;uso non autorizzato dei Buoni Regalo. I termini e condizioni d&rsquo;uso sono disponibili su <a href=\"http://www.amazon.it/buoni-regalo-termini-condizioni\">www.amazon.it/buoni-regalo-termini-condizioni</a>. I Buoni Regalo sono emessi da Amazon EU Sarl. Tutti i &reg;, TM e &copy; Amazon sono propriet&agrave; intellettuale di Amazon.com o delle sue filiali.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.it is not a sponsor of this promotion. Amazon.it Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.it website&nbsp; towards the purchase of eligible products listed in our online catalogue and sold by Amazon.it or any other seller selling through Amazon.it. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.it is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.it/buoni-regalo-termini-condizioni\">www.amazon.it/buoni-regalo-termini-condizioni</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n",
+            "description": "<p>I Buoni Regalo* Amazon.it possono essere utilizzati per milioni di articoli su <a href=\"http://www.amazon.it\">www.amazon.it</a>. La vasta selezione di prodotti Amazon.it include Libri, Elettronica, Musica, Film e TV, Abbigliamento, Video Giochi, Software, Sport e Tempo libero, Giocattoli, Computer e Ufficio, Casa e Giardino, Orologi, Foto e Videocamere e altro. Amazon.it &egrave; il luogo dove trovare e scoprire tutto ci&ograve; che vuoi comprare online ad un prezzo conveniente.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.it Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.it\">www.amazon.it</a>. Amazon.it&#39;s huge selection includes products in Books, Electronics, Music, MP3 Downloads, Film &amp; TV, Clothing, Video Games, Software, Sports &amp; Outdoors, Toys, Baby, Computers &amp; Office, Home &amp; Garden, Jewellery, Beauty, DIY &amp; Home Improvement, Office Products, Camera &amp; Photo, Pet Supplies, and more. Amazon.it is the place to find and discover almost anything you want to buy online at a great price.</p>\r\n",
+            "shortDescription": "<p>&quot;I Buoni Regalo* Amazon.it possono essere utilizzati per milioni di articoli su <a href=\"http://www.amazon.it\">www.amazon.it</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Amazon.it Gift Certificates* can be redeemed towards millions of items at <a href=\"http://www.amazon.it\">www.amazon.it</a>.</p>\r\n",
+            "terms": "<p>* Amazon.it non &egrave; uno sponsor della presente promozione. I Buoni Regalo Amazon.it possono essere utilizzati sul sito Amazon.it per l&#39;acquisto di prodotti elencati nel nostro catalogo on-line e venduti da Amazon.it o da qualsiasi altro venditore attraverso Amazon.it I Buoni Regalo Amazon non possono essere ricaricati, rivenduti, convertiti in contanti, trasferiti o utilizzati in un altro account. Amazon.it non &egrave; responsabile per lo smarrimento, il furto, la distruzione o l&rsquo;uso non autorizzato dei Buoni Regalo. I termini e condizioni d&rsquo;uso sono disponibili su <a href=\"http://www.amazon.it/buoni-regalo-termini-condizioni\">www.amazon.it/buoni-regalo-termini-condizioni</a>. I Buoni Regalo sono emessi da Amazon EU Sarl. Tutti i &reg;, TM e &copy; Amazon sono propriet&agrave; intellettuale di Amazon.com o delle sue filiali.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>*Amazon.it is not a sponsor of this promotion. Amazon.it Gift Certificates (&quot;GCs&quot;) may be redeemed on the Amazon.it website&nbsp; towards the purchase of eligible products listed in our online catalogue and sold by Amazon.it or any other seller selling through Amazon.it. GCs cannot be reloaded, resold, transferred for value, redeemed for cash or applied to any other account. Amazon.it is not responsible if a GC is lost, stolen, destroyed or used without permission. See <a href=\"http://www.amazon.it/buoni-regalo-termini-condizioni\">www.amazon.it/buoni-regalo-termini-condizioni</a> for complete terms and conditions. GCs are issued by Amazon EU S.&agrave; r.l. All Amazon &reg;, &trade; &amp; &copy; are IP of Amazon.com, Inc. or its affiliates.</p>\r\n\r\n<p>Please note that this reward expires 10 years from issuance.</p>\r\n",
+            "createdDate": "2016-07-12T23:59:54Z",
+            "lastUpdateDate": "2017-06-14T03:32:19Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b855420-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U006961",
+                    "rewardName": "Amazon.it Gift Certificate",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 0.01,
+                    "maxValue": 5000,
+                    "createdDate": "2016-09-01T22:50:37.754Z",
+                    "lastUpdateDate": "2017-06-14T03:48:09.625Z",
+                    "countries": [
+                        "IT"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B891734",
+            "brandName": "Apple iTunes®",
+            "disclaimer": "<p>iTunes&reg; is&nbsp; a registered trademark of Apple Inc.&nbsp; All right reserved.&nbsp; Apple is not a participant in or sponsor of this promotion.</p>\r\n",
+            "description": "<p>Give the gift of one-stop entertainment. Each card includes a code redeemable for music, movies, TV shows, games, apps, and more on the iTunes Store, the iBooks Store, the App Store, and the Mac App Store. Recipients can access their content on an iPod, iPad, or iPhone, and watch or listen on a computer&mdash;Mac or PC.</p>\r\n",
+            "shortDescription": "<p>iTunes Codes are perfect for anyone who enjoys music, movies, TV shows, games, apps, and books. And each card can be redeemed on the iTunes Store, App Store, iBooks Store, and the Mac App Store.</p>\r\n",
+            "terms": "<p>Valid only on iTunes Store for U.S. Requires iTunes account and prior acceptance of license and usage terms. To open an account you must be 13+ and in the U.S. Compatible software, hardware, and Internet access required. Not redeemable for cash, no refunds or exchanges (except as required by law). Code may not be used to purchase any other merchandise, allowances or iTunes gifting. Data collection and use subject to Apple Customer Privacy Policy, see <a href=\"http://www.apple.com/privacy\">www.apple.com/privacy</a>, unless stated otherwise. Risk of loss and title for code passes to purchaser on transfer. Codes are issued and managed by Apple Value Services, LLC (&ldquo;Issuer&rdquo;). Neither Apple nor Issuer is responsible for any loss or damage resulting from lost or stolen codes or use without permission. Apple and its licensees, affiliates, and licensors make no warranties, express or implied, with respect to code or the iTunes Store and disclaim any warranty to the fullest extent available. These limitations may not apply to you. Void where prohibited. Not for resale. Subject to full terms and conditions, see <a href=\"http://www.apple.com/legal/itunes/us/terms.html\">www.apple.com/legal/itunes/us/terms.html</a>. Content and pricing subject to availability at the time of actual download. Content purchased from the iTunes Store is for personal lawful use only. Don&rsquo;t steal music. &copy; 2016 Apple Inc. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-13T22:16:28Z",
+            "lastUpdateDate": "2017-06-14T03:32:28Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b852711-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U709542",
+                    "rewardName": "iTunes® Code $25.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-20T18:11:05.018Z",
+                    "lastUpdateDate": "2017-06-14T04:14:14.147Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U689567",
+                    "rewardName": "iTunes® Code $5.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 5,
+                    "createdDate": "2016-07-20T18:01:38.761Z",
+                    "lastUpdateDate": "2017-06-14T04:14:13.502Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U355612",
+                    "rewardName": "iTunes® Code $10.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 10,
+                    "createdDate": "2016-07-20T18:03:05.759Z",
+                    "lastUpdateDate": "2017-06-14T04:14:03.793Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U013124",
+                    "rewardName": "iTunes® Code $20.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 20,
+                    "createdDate": "2016-07-26T02:18:25.35Z",
+                    "lastUpdateDate": "2017-06-14T03:48:09.92Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U517954",
+                    "rewardName": "iTunes® Code $15.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-20T18:08:15.842Z",
+                    "lastUpdateDate": "2017-06-14T04:14:08.047Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B310859",
+            "brandName": "Apple iTunes® France",
+            "disclaimer": "<p>iTunes&reg; [<a href=\"http://www.apple.com/legal/internet-services/itunes/fr/terms.html\">http://www.apple.com/legal/internet-services/itunes/fr/terms.html</a>] est une marque d&eacute;pos&eacute;e d&#39;Apple Inc. Apple n&#39;est pas associ&eacute;e a cette promotion et ne l&#39;a commandit&eacute;e d&#39;aucune fa&ccedil;on.</p>\r\n\r\n<p>iTunes&reg; [<a href=\"http://www.apple.com/legal/internet-services/itunes/uk/terms.html\">http://www.apple.com/legal/internet-services/itunes/uk/terms.html</a>] is a registered trademark of Apple Inc. All rights reserved.&nbsp; Apple is not a participant in or sponsor of this promotion.</p>\r\n",
+            "description": "<p>Les heureux destinataires peuvent utiliser leurs cadeaux iTunes aussi bien sur l&rsquo;iTunes Store que sur l&rsquo;App Store, le Mac App Store et iBooks. Sans carte bancaire. Il leur suffit de disposer d&#39;un compte iTunes gratuit. Ils peuvent alors utiliser leur cr&eacute;dit comme bon leur semble pour t&eacute;l&eacute;charger musique, films, s&eacute;ries TV, apps, jeux, livres et plus encore.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Recipients can redeem and use their iTunes gifts on the iTunes Store, App Store, Mac App Store and iBooks. There&rsquo;s no credit card required. All they need is a free iTunes account. And they can immediately use their gift credit for whatever they want &mdash; songs, films, TV programmes, apps, games, books and more.</p>\r\n",
+            "shortDescription": "<p>Les cadeaux iTunes sont parfaits &agrave; titre d&#39;encouragement, de remerciement ou de r&eacute;compense pour d&#39;excellents r&eacute;sultats. Les destinataires peuvent choisir exactement ce qui leur pla&icirc;t : musique, films, s&eacute;ries TV, apps, jeux, livres et plus encore.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favorites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.</p>\r\n",
+            "terms": "<p>Cette carte n&rsquo;est utilisable que sur le site fran&ccedil;ais iTunes&reg; Store. Pour utiliser cette carte, vous devez disposer d&rsquo;un compte iTunes&reg; et avoir accept&eacute; au pr&eacute;alable les conditions de licence et d&rsquo;utilisation. Pour ouvrir un compte, vous devez &ecirc;tre &acirc;g&eacute;(e) d&rsquo;au moins 13 ans et r&eacute;sider en France. Le contenu et les prix sont sujets &agrave; disponibilit&eacute; au moment du t&eacute;l&eacute;chargement effectif. Il est n&eacute;cessaire de poss&eacute;der le logiciel iTunes&reg; 9.0 ou toute version ult&eacute;rieure, des logiciels et mat&eacute;riels informatiques compatibles, ainsi qu&rsquo;un acc&egrave;s Internet (des frais suppl&eacute;mentaires peuvent s&rsquo;appliquer). Cette carte ne peut pas &ecirc;tre rachet&eacute;e, rembours&eacute;e, &eacute;chang&eacute;e ou utilis&eacute;e pour d&rsquo;autres achats; elle ne permet pas d&rsquo;obtenir les cadeaux mensuels ni les cadeaux iTunes&reg;. Sauf indication contraire, la collecte et l&rsquo;utilisation de donn&eacute;es sont soumises &agrave; la Politique de Confidentialit&eacute; Client d&rsquo;Apple, consultable sur <a href=\"http://www.apple.com/fr/legal/privacy/\">www.apple.com/fr/legal/privacy/</a>. La propri&eacute;t&eacute; et les risques de perte des cartes sont transmis &agrave;&nbsp; l&rsquo;acheteur d&egrave;s le transfert de la carte. iTunes&reg; ne peut &ecirc;tre tenu pour responsable des pertes ou des dommages r&eacute;sultant de la perte, du vol ou de l&rsquo;utilisation des cartes sans votre autorisation. Vos droits l&eacute;gaux ne sont en rien modifi&eacute;s. Les cartes ne peuvent &ecirc;tre revendues. Les cartes iTunes&reg; sont &eacute;mises et fournies par iTunes&reg; S.&agrave;.r.l. Le d&eacute;taillant qui distribue les cartes agit en tant qu&rsquo;agent au nom et pour le compte de iTunes&reg; S.&agrave;.r.l. Pour l&rsquo;int&eacute;gralit&eacute; des conditions g&eacute;n&eacute;rales, veuillez consulter <a href=\"http://www.apple.com/legal/internet-services/itunes/fr/terms.html\">http://www.apple.com/legal/internet-services/itunes/fr/terms.html</a>. Tout achat r&eacute;alis&eacute; sur iTunes&reg; Store est r&eacute;serv&eacute; &agrave; un usage strictement personnel et licite. Respectez la musique et ses auteurs. TM et &copy; 2014 iTunes&reg; S.&agrave;.r.l. Tous droits r&eacute;serv&eacute;s.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>This iTunes Gift Card is redeemable only on the iTunes Store for France. To redeem this card you must have an iTunes account, subject to prior acceptance of licence and usage terms. To open an account you must be above the age of 13 and in France. Content and pricing subject to availability at the time of actual download. iTunes 9.0 or later, compatible software and hardware, and Internet access (fees may apply) are required. This card cannot be redeemed for cash, returned for cash refund, exchanged, or used to purchase any other merchandise, provide monthly gifts or iTunes Gifting. Data collection and use subject to Apple Customer Privacy Policy, see <a href=\"http://www.apple.com/fr/legal/privacy/\">www.apple.com/fr/legal/privacy/</a>, unless stated otherwise. You will be responsible for this card after purchase. iTunes is not responsible for any loss or damage resulting from lost or stolen cards or use without your permission. These terms and conditions will not affect any of your statutory rights that you have, which cannot be excluded by these terms and conditions.&nbsp; For more information on your statutory rights, contact your local authority Trading Standards Department or Citizens Advice Bureau. Not for resale. iTunes Gift Cards are issued and supplied by iTunes S.&agrave;.r.l. In distributing the cards retailer is acting as agent for and on behalf of iTunes S.&agrave;.r.l. For full terms, see <a href=\"http://www.apple.com/legal/internet-services/itunes/uk/terms.html\">http://www.apple.com/legal/internet-services/itunes/uk/terms.html</a>. Content purchased from the iTunes Store is for personal lawful use only. Don&rsquo;t steal music. TM and &copy; 2016 iTunes S.&agrave;.r.l. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-18T23:46:23Z",
+            "lastUpdateDate": "2017-06-14T03:26:32Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b607168-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U417312",
+                    "rewardName": "iTunes® France Code €15.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-23T21:57:33.238Z",
+                    "lastUpdateDate": "2017-06-14T04:14:04.848Z",
+                    "countries": [
+                        "FR"
+                    ]
+                },
+                {
+                    "utid": "U436270",
+                    "rewardName": "iTunes® France Code €25.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-23T21:59:25.178Z",
+                    "lastUpdateDate": "2017-06-14T04:14:05.419Z",
+                    "countries": [
+                        "FR"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B405468",
+            "brandName": "Apple iTunes® Germany",
+            "disclaimer": "<p>Apple, das Apple Logo, iTunes [<a href=\"http://www.apple.com/legal/internet-services/itunes/de/terms.html\">http://www.apple.com/legal/internet-services/itunes/de/terms.html</a>] und andere Apple-Marken, Dienstleistungsmarken, Grafiken und Logos, die im Zusammenhang mit dem Dienst genutzt werden, sind Marken oder registrierte Marken von Apple Inc. in den USA und/oder in anderen L&auml;ndern</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>iTunes is a registered trademark of Apple Inc.&nbsp; Apple ist nicht mitwirkender oder Sponsor dieser Werbeaktion</p>\r\n",
+            "description": "<p>Die Empf&auml;nger k&ouml;nnen ihre iTunes Geschenke im iTunes Store, App Store, Mac App Store und bei iBooks einl&ouml;sen. Ganz ohne Kreditkarte. Sie brauchen daf&uuml;r nichts weiter als ihren kostenlosen iTunes Account. Und sie k&ouml;nnen ihr Geschenkguthaben sofort nutzen &ndash; f&uuml;r Songs, Filme, Fernsehsendungen, Apps, Spiele, B&uuml;cher und mehr.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Recipients can redeem and use their iTunes gifts on the iTunes Store, App Store, Mac App Store and iBooks. There&rsquo;s no credit card required. All they need is a free iTunes account. And they can immediately use their gift credit for whatever they want &mdash; songs, films, TV programmes, apps, games, books and more.</p>\r\n",
+            "shortDescription": "<p>iTunes Karten sind perfekt, um Unterhaltung zu verschenken. Empf&auml;nger k&ouml;nnen sie einl&ouml;sen, wof&uuml;r sie m&ouml;chten &ndash; Songs, Filme, Fernsehsendungen, Apps, Spiele, B&uuml;cher und mehr.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favorites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.</p>\r\n",
+            "terms": "<p>Diese iTunes-Karte ist ausschlie&szlig;lich im iTunes Store f&uuml;r Deutschland einl&ouml;sbar. Zum Einl&ouml;sen der iTunes-Karte m&uuml;ssen Sie &uuml;ber ein iTunes-Konto verf&uuml;gen. Zur Er&ouml;ffnung des iTunes-Kontos ist es erforderlich, dass sie vorher unsere Lizenz- und Nutzungsbestimmungen akzeptiert haben. Dar&uuml;ber hinaus m&uuml;ssen Sie zur Er&ouml;ffnung eines Kontos &uuml;ber 13 Jahre alt sein und sich in Deutschland befinden. Inhalte und Preise vorbehaltlich der Verf&uuml;gbarkeit zum Zeitpunkt des tats&auml;chlichen Herunterladens. Es gelten folgende technische Anforderungen: iTunes 9.0 oder j&uuml;ngere Versionen, kompatible Soft- und Hardware sowie Internetzugang (m&ouml;glicherweise geb&uuml;hrenpflichtig). Die Einl&ouml;sung der iTunes-Karte gegen bar, die R&uuml;ckgabe gegen R&uuml;ckerstattung in bar oder der Umtausch bzw. die Verwendung der iTunes-Karte zum Kauf sonstiger Waren sowie die Einl&ouml;sung in Monats-Kontoguthaben oder iTunes-Karten sind nicht m&ouml;glich. F&uuml;r die Erhebung, Verarbeitung und Nutzung personenbezogener Daten gelten die Datenschutzrichtlinien f&uuml;r Apple-Kunden, a rufbar unter <a href=\"http://www.apple.com/de/legal/privacy/\">www.apple.com/de/legal/privacy/</a>, falls nicht anderweitig zur Verf&uuml;gung gestellt. Die Gefahr des zuf&auml;lligen Untergangs der iTunes-Karte geht mit der &Uuml;bergabe auf den K&auml;ufer &uuml;ber. Eigentumserwerb findet ebenfalls mit &Uuml;bergabe an den K&auml;ufer statt. iTunes haftet nicht f&uuml;r Verluste oder Sch&auml;den, die aus dem zuf&auml;lligen Untergang oder dem Diebstahl oder aus einer rechtswidrigen Nutzung der i-Tunes-Karte entstehen. Ihre gesetzlichen Rechte bleiben hiervon unber&uuml;hrt. Nicht zum Weiterverkauf bestimmt. Aussteller und Lieferant der iTunes-Karten ist die iTunes S.&agrave;.r.l. Beim Vertrieb der Karten handelt der Einzelh&auml;ndler als Vertriebsmittler f&uuml;r und im Auftrag der iTunes S.&agrave;.r.l. Der volle Wortlaut der Bestimmungen ist hier einsehbar: <a href=\"http://www.apple.com/legal/itunes/de/gifts.html\">www.apple.com/legal/itunes/de/gifts.html</a>. Im iTunes Store gekaufte Musik ist ausschlie&szlig;lich zum pers&ouml;nlichen, rechtm&auml;&szlig;igen Gebrauch bestimmt. Stehlen Sie keine Musik. Eingetragenes Warenzeichen, &copy; 2014 iTunes S.&agrave;.r.l.. Alle Rechte vorbehalten</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>This iTunes Gift Card is redeemable only on the iTunes Store for Germany.&nbsp; To redeem this card you must have an iTunes account, subject to prior acceptance of licence and usage terms. To open an account you must be above the age of 13 and in Germany. Content and pricing subject to availability at the time of actual download. iTunes 9.0 or later, compatible software and hardware, and Internet access (fees may apply) are required. This card cannot be redeemed for cash, returned for cash refund, exchanged, or used to purchase any other merchandise, provide monthly gifts or iTunes Gifting. Data collection and use subject to Apple Customer Privacy Policy, see <a href=\"http://www.apple.com/de/legal/privacy/\">www.apple.com/de/legal/privacy/</a>, unless stated otherwise. You will be responsible for this card after purchase. iTunes is not responsible for any loss or damage resulting from lost or stolen cards or use without your permission. These terms and conditions will not affect any of your statutory rights that you have, which cannot be excluded by these terms and conditions.&nbsp; For more information on your statutory rights, contact your local authority Trading Standards Department or Citizens Advice Bureau. Not for resale. iTunes Gift Cards are issued and supplied by iTunes&nbsp; S.&agrave;.r.l. In distributing the cards retailer is acting as agent for and on behalf of iTunes S.&agrave;.r.l. For full terms, see <a href=\"http://www.apple.com/legal/itunes/de/gifts.html\">www.apple.com/legal/itunes/de/gifts.html</a>. Content purchased from the iTunes Store is for personal lawful use only. Don&rsquo;t steal music. TM and &copy; 2016 iTunes S.&agrave;.r.l. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-18T23:49:13Z",
+            "lastUpdateDate": "2017-06-14T03:32:19Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b854769-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U901001",
+                    "rewardName": "iTunes® Germany Code €10.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 10,
+                    "createdDate": "2016-07-23T22:05:38.147Z",
+                    "lastUpdateDate": "2017-06-14T04:14:21.833Z",
+                    "countries": [
+                        "DE"
+                    ]
+                },
+                {
+                    "utid": "U079751",
+                    "rewardName": "iTunes® Germany Code €15.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-23T22:07:56.713Z",
+                    "lastUpdateDate": "2017-06-14T03:48:11.497Z",
+                    "countries": [
+                        "DE"
+                    ]
+                },
+                {
+                    "utid": "U036202",
+                    "rewardName": "iTunes® Germany Code €25.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-23T22:09:14.14Z",
+                    "lastUpdateDate": "2017-06-14T03:48:10.449Z",
+                    "countries": [
+                        "DE"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B750210",
+            "brandName": "Apple iTunes® Italy",
+            "disclaimer": "<p>Apple, il logo Apple, iTunes [<a href=\"http://www.apple.com/legal/internet-services/itunes/it/terms.html\">http://www.apple.com/legal/internet-services/itunes/it/terms.html</a>], App Store e altri marchi di Apple, marchi di servizio, segni grafici e loghi utilizzati in connessione con i Negozi costituiscono marchi o marchi registrati di Apple Inc., negli Stati Uniti ed in altri paesi.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>iTunes [<a href=\"http://www.apple.com/legal/internet-services/itunes/it/terms.html\">http://www.apple.com/legal/internet-services/itunes/uk/terms.html</a>]is a registered trademark of Apple Inc.&nbsp; All rights reserved.&nbsp; Apple is not a participant in or sponsor of this promotion.</p>\r\n",
+            "description": "<p>I regali iTunes possono essere utilizzati su iTunes Store, App Store, Mac App Store e iBooks, senza bisogno di una carta di credito. Basta avere un account iTunes gratuito per poter subito scaricare canzoni, film, app, giochi, libri e molto altro.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Recipients can redeem and use their iTunes gifts on the iTunes Store, App Store, Mac App Store and iBooks. There&rsquo;s no credit card required. All they need is a free iTunes account. And they can immediately use their gift credit for whatever they want &mdash; songs, films, TV programmes, apps, games, books and more.</p>\r\n",
+            "shortDescription": "<p>Vuoi ringraziare un cliente, dare un riconoscimento ai collaboratori per un lavoro ben fatto o incentivarli a fare ancora di pi&ugrave;? I regali iTunes sono quel che fa per te.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favorites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.</p>\r\n",
+            "terms": "<p>Questa carta iTunes pu&ograve; essere riscattata solo sull&rsquo;iTunes Store Italia e scade dopo due anni dalla data (i) di emissione o, se successiva (ii) dell&rsquo;ultima operazione effettuata su un account iTunes. Per riscattare questa carta &egrave; necessario avere un conto iTunes, soggetto a previa accettazione dei termini di licenza e d&rsquo;uso. Per aprire un conto &egrave; necessario avere pi&ugrave; di 13 anni e risiedere in Italia. Prezzi e contenuti sono quelli applicablili e disponibili del momento dell&rsquo;effettivo download. &Egrave; necessario essere in possesso di iTunes 9.0 o della versione successiva, di software e hardware compatibili e di accesso Internet (in relazione al quale potrebbero essere applicati costi e/o commissioni). Questa carta non pu&ograve; essere riscattata in cambio di denaro, rimborsata, scambiata n&egrave; utilizzata per acquistare alcun altro tipo di merce, regali mensili o buoni regalo iTunes. Salvo diversamente specificato, la raccolta e l&rsquo;uso dei dati sono soggetti alla politica sulla riservatezza dei clienti Apple, vedere <a href=\"http://www.apple.com/it/legal/privacy/\">www.apple.com/it/legal/privacy/</a>. Il rischio di perdita e il diritto di propriet&agrave; delle carte passano all&rsquo;acquirente al momento del trasferimento. iTunes non &egrave; responsabile per eventuali perdite o danni risultanti dalla perdita o dal furto di una carta o dal suo uso senza autorizzazione. I diritti stabiliti dalla legge restano invariati. La carta non pu&ograve; essere rivenduta. Le carte iTunes vengono emesse e fornite da iTunes S.&agrave;.r.l. Per conoscere tutte le condizioni, vedere <a href=\"http://www.apple.com/legal/itunes/it/gifts.html\">www.apple.com/legal/itunes/it/gifts.html</a>. I contenuti acquistati dall&rsquo;iTunes Store sono destinati a un utilizzo legale e personale. &Egrave; vietato rubare contenuti musicali. TM e &copy; 2014 iTunes S.&agrave;.r.l. Tutti i diritti riservati.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>This iTunes Gift Card is redeemable only on the iTunes Store for Italy. To redeem this card you must have an iTunes account, subject to prior acceptance of licence and usage terms. To open an account you must be above the age of 13 and in Italy. Content and pricing subject to availability at the time of actual download. iTunes 9.0 or later, compatible software and hardware, and Internet access (fees may apply) are required. This card cannot be redeemed for cash, returned for cash refund, exchanged, or used to purchase any other merchandise, provide monthly gifts or iTunes Gifting. Data collection and use subject to Apple Customer Privacy Policy, see <a href=\"http://www.apple.com/it/legal/privacy/\">www.apple.com/it/legal/privacy/</a>, unless stated otherwise. You will be responsible for this card after purchase. iTunes is not responsible for any loss or damage resulting from lost or stolen cards or use without your permission. These terms and conditions will not affect any of your statutory rights that you have, which cannot be excluded by these terms and conditions.&nbsp; For more information on your statutory rights, contact your local authority Trading Standards Department or Citizens Advice Bureau. Not for resale. iTunes Gift Cards are issued and supplied by iTunes S.&agrave;.r.l. In distributing the cards retailer is acting as agent for and on behalf of iTunes S.&agrave;.r.l. For full terms, see <a href=\"http://www.apple.com/legal/itunes/it/gifts.html\">www.apple.com/legal/itunes/it/gifts.html</a>. Content purchased from the iTunes Store is for personal lawful use only. Don&rsquo;t steal music. TM and &copy; 2016 iTunes S.&agrave;.r.l. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-18T23:52:47Z",
+            "lastUpdateDate": "2017-06-14T03:32:26Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b962612-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U871269",
+                    "rewardName": "iTunes® Italy Code €25.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-23T22:20:33.793Z",
+                    "lastUpdateDate": "2017-06-14T04:14:20.76Z",
+                    "countries": [
+                        "IT"
+                    ]
+                },
+                {
+                    "utid": "U071487",
+                    "rewardName": "iTunes® Italy Code €15.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-23T22:19:06.129Z",
+                    "lastUpdateDate": "2017-06-14T03:48:11.183Z",
+                    "countries": [
+                        "IT"
+                    ]
+                },
+                {
+                    "utid": "U348889",
+                    "rewardName": "iTunes® Italy Code €10.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 10,
+                    "createdDate": "2016-07-23T22:15:50.576Z",
+                    "lastUpdateDate": "2017-06-28T23:20:09.884Z",
+                    "countries": [
+                        "IT"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B426103",
+            "brandName": "Apple iTunes® Spain",
+            "disclaimer": "<p>Apple, el logo de Apple, iTunes [<a href=\"http://www.apple.com/legal/internet-services/itunes/es/terms.html\">http://www.apple.com/legal/internet-services/itunes/es/terms.html</a>], App Store, y otras marcas comerciales de Apple, marcas de servicio, gr&aacute;ficos, y logos utilizados en relaci&oacute;n con los Servicios App y Book son marcas comerciales o marcas registradas de Apple Inc. en los EE.UU., M&eacute;xico y/u otros pa&iacute;ses. Apple no es participante ni sponsor de esta promoci&oacute;n.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>iTunes [<a href=\"http://www.apple.com/legal/internet-services/itunes/uk/terms.html\">http://www.apple.com/legal/internet-services/itunes/uk/terms.html</a>] is a registered trademark of Apple Inc.&nbsp; All rights reserved.&nbsp; Apple is not a participant in or sponsor of this promotion.</p>\r\n",
+            "description": "<p>Los destinatarios podr&aacute;n canjear sus regalos de iTunes en el iTunes Store, App Store, Mac App Store y en el iBooks Store. No necesitan tarjeta de cr&eacute;dito, solamente una cuenta gratuita de iTunes. Podr&aacute;n usar el cr&eacute;dito de su regalo inmediatamente y para todo lo que quieran: m&uacute;sica, pel&iacute;culas, apps, juegos, libros y mucho m&aacute;s.<br />\r\n&nbsp;</p>\r\n\r\n<p>Recipients can redeem and use their iTunes gifts on the iTunes Store, App Store, Mac App Store and iBooks. There&rsquo;s no credit card required. All they need is a free iTunes account. And they can immediately use their gift credit for whatever they want &mdash; songs, films, TV programmes, apps, games, books and more.</p>\r\n",
+            "shortDescription": "<p>Los regalos de iTunes son fant&aacute;sticos incentivos, promociones y agradecimientos. Con las Tarjetas regalo de iTunes, cada destinatario podr&aacute; elegir exactamente lo que quiere: canciones, pel&iacute;culas, apps, libros, juegos y mucho m&aacute;s.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>\\Give an iTunes Gift Card to the music lovers in your life and let them re-discover old favorites or keep up with the hottest hits. With the prepaid card, they can purchase songs from the #1 music download store and enjoy them anywhere with iPod or on their computers with iTunes for Mac or Windows.</p>\r\n",
+            "terms": "<p>Esta tarjeta iTunes se puede canjear solamente en el iTunes Store de Espa&ntilde;a y caduca transcurridos dos a&ntilde;os a partir de la fecha de (i) emisi&oacute;n o, si fuera posterior, (ii) transcurridos dos a&ntilde;os a partir de la fecha en que se haya registrado la &uacute;ltima actividad referida en una cuenta iTunes, cualquiera de los eventos que suceda en &uacute;ltimo lugar. Para canjear la tarjeta debe disponer de una cuenta iTunes sujeta a la previa aceptaci&oacute;n de las condiciones de licencia y uso. Para abrir una cuenta debe tener m&aacute;s de 13 a&ntilde;os y residir en Espa&ntilde;a. El contenido y los precios est&aacute;n sujetos a disponibilidad en el momento efectivo de la descarga. Necesitar&aacute; disponer de iTunes 9.0 o una versi&oacute;n posterior, software y hardware compatibles y acceso a Internet (que puede implicar el pago de una cuota de acceso a Internet de su proveedor habitual). Esta tarjeta no se puede canjear por efectivo, devolver para que se reintegre su importe en efectivo, intercambiar o utilizar para adquirir ninguna otra mercanc&iacute;a ni regalos mensuales o regalos iTunes. Salvo indicaci&oacute;n en contrario, los datos recopilados y el uso que se haga de los mismos est&aacute;n sujetos a la Pol&iacute;tica de Privacidad de Clientes de Apple; consulte <a href=\"http://www.apple.com/es/legal/privacy/\">www.apple.com/es/legal/privacy/</a>. El riesgo de p&eacute;rdida y la titularidad de las tarjetas pasar&aacute;n al comprador en caso de transmisi&oacute;n. iTunes no se responsabilizar&aacute; de cualesquiera p&eacute;rdidas o da&ntilde;os derivados de la p&eacute;rdida, el robo o el uso no autorizado de las tarjetas. Los derechos que legalmente tenga atribuidos no se ver&aacute;n afectados por las presentes Condiciones. No est&aacute; permitida la reventa de la tarjeta. Las tarjetas iTunes son emitidas y suministradas por iTunes S.&agrave;.r.l. Al distribuir las tarjetas, el minorista act&uacute;a como representante de iTunes S.&agrave;.r.l. Si desea conocer todas las condiciones, consulte <a href=\"http://www.apple.com/legal/itunes/es/gifts.html\">www.apple.com/legal/itunes/es/gifts.html</a>. El contenido del iTunes Store es &uacute;nicamente para fines legales de &aacute;mbito personal. No robe contenido. Marca comercial y &copy; 2014 iTunes S.&agrave;.r.l. Todos los derechos reservados.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>This iTunes Gift Card is redeemable only on the iTunes Store for Spain. To redeem this card you must have an iTunes account, subject to prior acceptance of licence and usage terms. To open an account you must be above the age of 13 and in Spain. Content and pricing subject to availability at the time of actual download. iTunes 9.0 or later, compatible software and hardware, and Internet access (fees may apply) are required. This card cannot be redeemed for cash, returned for cash refund, exchanged, or used to purchase any other merchandise, provide monthly gifts or iTunes Gifting. Data collection and use subject to Apple Customer Privacy Policy, see <a href=\"http://www.apple.com/es/legal/privacy/\">www.apple.com/es/legal/privacy/</a>, unless stated otherwise. You will be responsible for this card after purchase. iTunes is not responsible for any loss or damage resulting from lost or stolen cards or use without your permission. These terms and conditions will not affect any of your statutory rights that you have, which cannot be excluded by these terms and conditions.&nbsp; For more information on your statutory rights, contact your local authority Trading Standards Department or Citizens Advice Bureau. Not for resale. iTunes Gift Cards are issued and supplied by iTunes S.&agrave;.r.l. In distributing the cards retailer is acting as agent for and on behalf of iTunes S.&agrave;.r.l. For full terms, see <a href=\"http://www.apple.com/legal/itunes/es/gifts.html\">www.apple.com/legal/itunes/es/gifts.html</a>. Content purchased from the iTunes Store is for personal lawful use only. Don&rsquo;t steal music. TM and &copy; 2016 iTunes S.&agrave;.r.l. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-18T23:55:14Z",
+            "lastUpdateDate": "2017-06-14T03:32:19Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b557720-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U102479",
+                    "rewardName": "iTunes® Spain Code €25.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-23T22:30:51.007Z",
+                    "lastUpdateDate": "2017-06-14T03:48:12.532Z",
+                    "countries": [
+                        "ES"
+                    ]
+                },
+                {
+                    "utid": "U359542",
+                    "rewardName": "iTunes® Spain Code €15.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-23T22:26:20.65Z",
+                    "lastUpdateDate": "2017-06-14T04:14:03.821Z",
+                    "countries": [
+                        "ES"
+                    ]
+                },
+                {
+                    "utid": "U126661",
+                    "rewardName": "iTunes® Spain Code €10.00",
+                    "currencyCode": "EUR",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 10,
+                    "createdDate": "2016-07-23T22:24:20.91Z",
+                    "lastUpdateDate": "2017-06-14T03:48:13.626Z",
+                    "countries": [
+                        "ES"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B801330",
+            "brandName": "Apple iTunes® UK",
+            "disclaimer": "<p>TM and &copy; 2017 Apple Inc. All rights reserved.<br />\r\nApple is not a participant in or sponsor of this promotion.</p>\r\n",
+            "description": "<p>Redeem your iTunes Code for apps, games, music, films, TV programmes, books and more, on the App Store, the iTunes Store, the iBooks Store or the Mac App Store.</p>\r\n",
+            "shortDescription": "<p>Redeem your iTunes Code for apps, games, music, films, TV programmes, books and more, on the App Store, the iTunes Store, the iBooks Store or the Mac App Store.</p>\r\n",
+            "terms": "<p>This iTunes Code is redeemable only on the UK iTunes Store. To redeem this code, you must have an iTunes account, subject to prior acceptance of licence and usage terms. To open an account, you must be above the age of 13 and in the UK. Content and pricing subject to availability at the time of actual download. This code cannot be redeemed for cash, returned for cash refund, exchanged or used to purchase any other merchandise, or provide iTunes Gifting. Data collection and use subject to Apple Customer Privacy Policy; see <a href=\"http://www.apple.com/uk/legal/privacy\">apple.com/uk/legal/privacy</a>, unless stated otherwise. iTunes is not responsible for any loss or damage resulting from lost or stolen codes or use without your permission. Your statutory rights are not affected. Not for resale. iTunes Codes are issued and supplied by Apple Distribution International. Terms apply; <a href=\"http://www.apple.com/legal/itunes/uk/terms.html\">apple.com/legal/itunes/uk/terms.html</a>. Content purchased from the iTunes Store is for personal lawful use only. &copy; 2017 Apple Distribution International. All rights reserved.</p>\r\n",
+            "createdDate": "2016-07-18T23:58:18Z",
+            "lastUpdateDate": "2017-07-06T18:13:27Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b416737-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U068864",
+                    "rewardName": "£10.00 iTunes Code",
+                    "currencyCode": "GBP",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 10,
+                    "createdDate": "2016-07-24T20:06:19.917Z",
+                    "lastUpdateDate": "2017-07-06T18:19:44.737Z",
+                    "countries": [
+                        "UK"
+                    ]
+                },
+                {
+                    "utid": "U274480",
+                    "rewardName": "iTunes® UK Code £25.00",
+                    "currencyCode": "GBP",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2016-07-24T20:12:03.313Z",
+                    "lastUpdateDate": "2017-06-14T04:14:01.392Z",
+                    "countries": [
+                        "UK"
+                    ]
+                },
+                {
+                    "utid": "U971460",
+                    "rewardName": "iTunes® UK Code £15.00",
+                    "currencyCode": "GBP",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2016-07-24T20:10:35.247Z",
+                    "lastUpdateDate": "2017-06-14T04:14:23.931Z",
+                    "countries": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B585681",
+            "brandName": "Best Buy®",
+            "disclaimer": "<p>This promotion is not produced, sponsored, or executed by Best Buy&reg;. Best Buy&reg;, the Best Buy&reg; logo and the tag design are trademarks of Best Buy&reg; and its affiliated companies. &copy; 2016 Best Buy&reg;. All rights reserved.</p>\r\n",
+            "description": "<p>When technology meets life, they come together at Best Buy&reg;. Best Buy has the technology that&rsquo;s fun and functional, from tablets and videogames, to appliances and big screen TVs. Use your gift card at BestBuy.com&reg; or at any US Best Buy store.</p>\r\n",
+            "shortDescription": "<p>When technology meets life, they come together at Best Buy&reg;. Best Buy has the technology that&rsquo;s fun and functional, from tablets and videogames, to appliances and big screen TVs. Use your gift card at BestBuy.com&reg; or at any US Best Buy store.</p>\r\n",
+            "terms": "<p>These terms and conditions apply to both Best Buy&reg; physical and e-gift cards. The terms and conditions are subject to change at any time. Additional terms and conditions apply to e-gift cards.</p>\r\n\r\n<ul>\r\n\t<li>Redeemable in any U.S. or Puerto Rico Best Buy&reg; retail location or online at BestBuy.com where available for merchandise or services, including Magnolia Home Theater and Geek Squad&reg;. Cannot be redeemed on prepaid open loop cards (sold in store only) or Marketplace items.</li>\r\n\t<li>No expiration date, no fees.</li>\r\n\t<li>Not redeemable for cash.</li>\r\n\t<li>Lost, stolen or damaged cards replaced only with valid proof of purchase to extent of remaining card balance.</li>\r\n\t<li>Not a credit or debit card.</li>\r\n\t<li>Not valid as payment on Best Buy&reg; credit card.</li>\r\n\t<li>Best Buy&reg; e-gift cards cannot be purchased with an international credit card.</li>\r\n\t<li>Check balance at any U.S. or P.R. Best Buy&reg; retail location, online at BestBuy.com, or call 1-888-716-7994. Must have card number available.</li>\r\n\t<li>All terms enforced except where prohibited by law.</li>\r\n\t<li>Purchases of physical or e-gift cards in any Best Buy&reg; retail location or online at BestBuy.com are eligible for My Best Buy&reg;&trade; points, excluding Best Buy&reg; for Business or commercial purchases of gift cards.</li>\r\n\t<li>Redeem up to 10 gift cards per transaction at BestBuy.com.</li>\r\n</ul>\r\n",
+            "createdDate": "2016-05-25T00:07:20Z",
+            "lastUpdateDate": "2017-06-14T03:32:23Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b970369-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U978277",
+                    "rewardName": "Best Buy® E-Gift Card",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 5,
+                    "maxValue": 2000,
+                    "createdDate": "2016-05-25T00:10:56.183Z",
+                    "lastUpdateDate": "2017-06-14T04:14:23.973Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B211671",
+            "brandName": "National Park Foundation",
+            "disclaimer": "<p>The National Park Foundation is not a sponsor of the reward or promotion or otherwise affiliated with this company. The logo and other identifying marks attached are trademarks of and owned by The National Park Foundation and/or its affiliates. Please visit each organization&rsquo;s website for additional terms and conditions.</p>\r\n",
+            "description": "<p>Chartered by Congress in 1967, the National Park Foundation&mdash; official philanthropic partner of the National Park Service &mdash;works on behalf of America&rsquo;s more than 400 national parks and their programs, safeguarding our heritage, and inspiring generations of national park enthusiasts. The National Park Foundation carries forth a legacy of support that began more than a century ago, when private citizens took action to establish and protect our treasured national parks. The Foundation fulfills its mission in partnership with the National Park Service and with countless affiliated local park Friends Groups, funding programs that promote leadership and innovation in conservation and preservation, educate youth and adults alike, encourage volunteerism, enhance the park visitor experience, and connect diverse communities to our shared heritage. *<br />\r\n<br />\r\nAny donation made to National Park Foundation through this company will be made anonymously</p>\r\n",
+            "shortDescription": "<p>The National Park Foundation, in partnership with the National Park Service, enriches America&rsquo;s national parks and programs through private support, protecting America&rsquo;s special places, connecting people to parks, and inspiring the next generation of park stewards.&nbsp;Any donation made to National Park Foundation through this company will be made anonymously</p>\r\n",
+            "terms": "<p>The National Park Foundation is not a sponsor of the reward or promotion or otherwise affiliated with this company. The logo and other identifying marks attached are trademarks of and owned by The National Park Foundation and/or its affiliates. Please visit each organization&rsquo;s website for additional terms and conditions.</p>\r\n",
+            "createdDate": "2016-05-27T18:39:00Z",
+            "lastUpdateDate": "2017-06-14T03:23:55Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b680234-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U178631",
+                    "rewardName": "National Park Foundation Donation",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "donation",
+                    "minValue": 0.01,
+                    "maxValue": 1000,
+                    "createdDate": "2016-05-27T18:41:03.195Z",
+                    "lastUpdateDate": "2017-06-14T04:13:58.991Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B942204",
+            "brandName": "Starbucks",
+            "disclaimer": "<p>The Starbucks word mark and the Starbucks Logo are trademarks of Starbucks Corporation. Starbucks is also the owner of the Copyrights in the Starbucks Logo and the Starbucks Card designs. All rights reserved. Starbucks is not a participating partner or sponsor in this offer.</p>\r\n",
+            "description": "<p>Starbucks coffeehouses have become a beacon for coffee lovers everywhere because you can count on genuine service, an inviting atmosphere and a superb cup of expertly roasted and richly brewed coffee every time.</p>\r\n",
+            "shortDescription": "<p>A Starbucks Card can bring a little goodness into everyone&rsquo;s day. Whether you use it for&nbsp; your favorite flavored ice tea or give one to a friend who loves her morning mocha, it&rsquo;s a great way for you or a loved one to enjoy a slice of happiness.</p>\r\n",
+            "terms": "<p>Reload your eGift and check your balance at participating Starbucks stores, <a href=\"http://www.starbucks.com/card\">www.starbucks.com/card</a> or 1-800-782-7282. Your Starbucks Card eGift may only be used for making purchases at participating Starbucks stores. It cannot be redeemed for cash unless required by law. Refunds can only be provided for unused eGifts with the original receipt. This eGift does not expire, nor does Starbucks charge fees. Complete terms and conditions available on our website. Use of this eGift constitutes acceptance of these terms and conditions. Treat this eGift like Cash.</p>\r\n",
+            "createdDate": "2016-05-27T16:25:45Z",
+            "lastUpdateDate": "2017-06-14T03:32:30Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b793513-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U761382",
+                    "rewardName": "Starbucks Card eGift",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 5,
+                    "maxValue": 500,
+                    "createdDate": "2016-05-27T16:39:23.835Z",
+                    "lastUpdateDate": "2017-06-23T22:11:41.206Z",
+                    "countries": [
+                        "MX",
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B663882",
+            "brandName": "Target",
+            "disclaimer": "<p>The Bullseye Design, Target and Target GiftCards are registered trademarks of Target Brands, Inc. Terms and conditions are applied to gift cards. Target is not a participating partner in or sponsor of&nbsp; this offer. Target eGiftCard redeemable at <a href=\"http://Target.com\">Target.com</a>. Target eGiftCard may be redeemed at any Target store in the U.S. with a web-enabled mobile device. Message and data rates may apply.</p>\r\n",
+            "description": "<p>A Target eGiftCard is your opportunity to shop for thousands of items at more than 1,700 Target and SuperTarget&reg; stores in the U.S., as well as Target.com. From home d&eacute;cor, small appliances and electronics to fashion, accessories and music, find exactly what you&rsquo;re looking for at Target. No fees. No expiration. No kidding.&reg;</p>\r\n",
+            "shortDescription": "<p>Target eGiftCards let you shop for thousands of items at more than 1,700 Target and SuperTarget&reg; stores in the U.S., as well as Target.com. From home d&eacute;cor to fashion to electronics, find what you&rsquo;re looking for at Target. No fees. No expiration. No kidding.&reg;</p>\r\n",
+            "terms": "<p>This Gift Card can be redeemed for merchandise or services (other than American Express and Visa gift cards and prepaid cards) at Target stores in the U.S. or Target.com, and cannot be redeemed for cash or credit except where required by law. No value until purchased. For balance information, visit <a href=\"http://www.target.com/giftcards\">www.target.com/giftcards</a> or call 1-800-544-2943. To replace the remaining value on a lost, stolen or damaged card with the original purchase receipt, 1-800-544-2943. &copy; 2016 Target Brands, Inc. The Bullseye Design, Bullseye Dog and Target are trademarks of Target Brands, Inc. 1212 1897.</p>\r\n",
+            "createdDate": "2016-04-26T23:02:52Z",
+            "lastUpdateDate": "2017-06-14T03:32:24Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b556455-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U084922",
+                    "rewardName": "Target eGiftCard",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "gift card",
+                    "minValue": 1,
+                    "maxValue": 2000,
+                    "createdDate": "2016-04-26T23:10:06.186Z",
+                    "lastUpdateDate": "2017-06-14T03:48:12.102Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B749401",
+            "brandName": "The Nature Conservancy",
+            "disclaimer": "<p>The Nature Conservancy is not a sponsor of the reward or promotion or otherwise affiliated with this company. The logo and other identifying marks attached are trademarks of and owned by The Nature Conservancy and/or its affiliates. Please visit each organization&rsquo;s website for additional terms and conditions.</p>\r\n",
+            "description": "<p>The Nature Conservancy is the leading conservation organization working around the world to protect ecologically important lands and waters for nature and people. We address the most pressing conservation threats at the largest scale and envision a world where the diversity of life thrives, and people act to conserve nature for its own sake and its ability to fulfill our needs and enrich our lives.</p>\r\n\r\n<p>With the support of more than 1 million members, the Conservancy has built a tremendous record of success since its founding in 1951. Specifically, the Conservancy has protected more than 119 million acres of land and thousands of miles of rivers worldwide, works in 69 countries protecting habitats from grasslands to coral reefs, and addresses threats to conservation involving climate change, fresh water, oceans and conservation lands.</p>\r\n",
+            "shortDescription": "<p>The Nature Conservancy is the leading conservation organization working around the world to protect ecologically important lands and waters for nature and people. We address the most pressing conservation threats at the largest scale and envision a world where the diversity of life thrives, and people act to conserve nature for its own sake and its ability to fulfill our needs and enrich our lives. To learn more, please visit&nbsp;<a href=\"http://www.nature.org/\">www.nature.org</a>.</p>\r\n",
+            "terms": "<p>The Nature Conservancy is not a sponsor of the reward or promotion or otherwise affiliated with this company. The logo and other identifying marks attached are trademarks of and owned by The Nature Conservancy and/or its affiliates. Please visit each organization&rsquo;s website for additional terms and conditions.</p>\r\n",
+            "createdDate": "2016-12-05T20:05:49Z",
+            "lastUpdateDate": "2017-06-14T03:32:26Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b134698-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U590203",
+                    "rewardName": "The Nature Conservancy Donation",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "VARIABLE_VALUE",
+                    "rewardType": "donation",
+                    "minValue": 0.01,
+                    "maxValue": 1000,
+                    "createdDate": "2016-12-13T00:46:37.3Z",
+                    "lastUpdateDate": "2017-06-14T04:14:10.162Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "brandKey": "B402061",
+            "brandName": "Xbox Live",
+            "disclaimer": "<p>*Xbox is not a sponsor of the rewards or otherwise affiliated with this company. The logos and other identifying marks attached are trademarks of and owned by each represented company and/or its affiliates. Please visit each company&#39;s website for additional terms and conditions.</p>\r\n",
+            "description": "<p>Get an Xbox Digital Gift Card for games and entertainment on Xbox One, Xbox 360, other select Microsoft online stores, and Windows Phone 8. Buy the latest games, map packs, music, movies, TV shows and more.* And on Xbox One, buy and download full blockbuster games the day they hit retail shelves. Great as a gift, allowance, or credit card alternative.</p>\r\n",
+            "shortDescription": "<p>Get an Xbox Digital Gift Card for games and entertainment on Xbox One, Xbox 360, other select Microsoft online stores, and Windows Phone 8. Buy the latest games, map packs, music, movies, TV shows and more.* And on Xbox One, buy and download full blockbuster games the day they hit retail shelves. Great as a gift, allowance, or credit card alternative.</p>\r\n",
+            "terms": "<p>Taxes may apply. Internet access and a Microsoft account are required (connect time charges may apply).<br />\r\nXbox Live required to redeem on console. Original Xbox&reg; excluded. Paid subscriptions required for some content. Except as required by law, codes cannot be redeemed or exchanged for cash and are not reloadable or refundable. Microsoft is not responsible if your code is lost, stolen, destroyed, or used without permission. Subject to full terms and conditions at <a href=\"http://www.microsoft.com/en-US/giftcard\">www.microsoft.com/en-US/giftcard</a>, which may change without notice. Void where prohibited or restricted by law.</p>\r\n",
+            "createdDate": "2016-07-13T23:16:41Z",
+            "lastUpdateDate": "2017-06-14T03:32:19Z",
+            "imageUrls": {
+                "200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-200w-326ppi.png",
+                "1200w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-1200w-326ppi.png",
+                "130w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-130w-326ppi.png",
+                "300w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-300w-326ppi.png",
+                "80w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-80w-326ppi.png",
+                "278w-326ppi": "https://dwwvg90koz96l.cloudfront.net/images/brands/b340318-278w-326ppi.png"
+            },
+            "status": "active",
+            "items": [
+                {
+                    "utid": "U609829",
+                    "rewardName": "Xbox Digital Gift Card $50.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 50,
+                    "createdDate": "2017-02-07T20:02:18.097Z",
+                    "lastUpdateDate": "2017-02-07T21:05:17.227Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U564672",
+                    "rewardName": "Xbox Digital Gift Card $25.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 25,
+                    "createdDate": "2017-02-07T19:57:45.702Z",
+                    "lastUpdateDate": "2017-07-10T18:54:08.142Z",
+                    "countries": [
+                        "US"
+                    ]
+                },
+                {
+                    "utid": "U773290",
+                    "rewardName": "Xbox Digital Gift Card $15.00",
+                    "currencyCode": "USD",
+                    "status": "active",
+                    "valueType": "FIXED_VALUE",
+                    "rewardType": "gift card",
+                    "faceValue": 15,
+                    "createdDate": "2017-02-07T19:50:17.434Z",
+                    "lastUpdateDate": "2017-07-10T18:54:37.088Z",
+                    "countries": [
+                        "US"
+                    ]
+                }
+            ]
+        }
+    ]
+}
